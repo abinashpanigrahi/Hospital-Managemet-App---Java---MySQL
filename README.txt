@@ -1,0 +1,1 @@
+It is a Java based desktop application developed using Netbeans IDE and MySQL.It can be used to perform the various tasks done at any hospital daily. It has separate windows for admitting patients,discharging patients,adding new staff members,current ward status and various other.
